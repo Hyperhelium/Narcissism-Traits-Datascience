@@ -26,6 +26,9 @@ A clear framework for linking clinical psychology concepts to statistical analys
 
 A portfolio-ready project for anyone interested in psychology, data science, or the intersection of both.
 
+💡 Start by reading the "Narcissism & Big Five Data Science Project.pdf" file. You will find the work process and the results of the Analysis.
+    You can then find the corresponding Python code used to analyze the data in the Jupyter Notebook.
+
 ⚠️ Disclaimer
 
 This project is for educational and informational purposes only. It does not provide a method to diagnose, label, or clinically evaluate individuals. Personality disorders, including Narcissistic Personality Disorder (NPD), require professional assessment. If you or someone you know may be struggling with NPD or related concerns, please seek help from a licensed mental health professional in your area.
