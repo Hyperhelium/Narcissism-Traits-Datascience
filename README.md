@@ -28,8 +28,8 @@ A portfolio-ready project for anyone interested in psychology, data science, or 
 
 💡 Start by reading the "Narcissism & Big Five Data Science Project.pdf" file. You will find the work process and the results of the Analysis.
     You can then find the corresponding Python code used to analyze the data in the Jupyter Notebook.
-    Artificial intelligence was employed as an assistive tool to refine the underlying code and enhance the clarity of this document. All applications of AI were conducted under 
-    the direct guidance, supervision, and meticulous review of the author, a licensed psychologist.
+    Note: Artificial intelligence was employed as an assistive tool to refine the underlying code and enhance the clarity of this document. All applications of AI were conducted
+    under the direct guidance, supervision, and meticulous review of the author, who is a licensed psychologist.
 
 ⚠️ Disclaimer
 
