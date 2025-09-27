@@ -14,6 +14,8 @@ Uses percentile thresholds to define “low” traits and estimate prevalence.
 
 Explores co-occurrence of traits and compares findings with DSM-5 clinical criteria.
 
+Important: This is not strictly scientific research; it's a Data Science project for an online course from Codecademy, it was created on data from Kaggle, which was carefully analyzed but it definitely does not satisfy strict scientific procedures.
+
 🌟 Why the project might be useful
 
 This work provides:
